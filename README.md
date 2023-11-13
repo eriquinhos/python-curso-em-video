@@ -17,7 +17,7 @@ Exercises Playlist: [Pyhton3 Exercises](https://www.youtube.com/playlist?list=PL
 
 ## Lista de Exercícios Resolvidos | Solved Exercises List
 
-Arquivo com enunciados | File with the statements: [Aqui | Here]()
+Arquivo com enunciados | File with the statements: [Aqui | Here](https://github.com/eriquinhos/python-curso-em-video/blob/main/enunciados-statements.txt)
 
 ### Mundo 1: Fundamentos | World 1: Fundamentals
 
