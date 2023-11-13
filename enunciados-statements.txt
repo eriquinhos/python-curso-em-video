@@ -211,322 +211,471 @@ c) qual é o nome do produto mais barato
 #071: Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
 Obs.: Considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
-#072:
+#072: Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso
 
-#073:
+#073: Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro, na ordem de colocação. Depois mostre:
+a) apenas os 5 primeiros colocados
+b) os últimos 4 colocados da tabela
+c) uma lista com os times em ordem alfabética
+d) em que posição na tabela está o time da Chapecoense
 
-#074:
+#074:Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indice o menor e o maior valor que estão na tupla
 
-#075:
+#075: Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
+a) quantas vezes apareceu o valor 9
+b) em que posição foi digitado o primeiro valor 3
+b) quais foram os números pares
 
-#076:
+#076: Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos precos, na sequência. No final, mostre uma listagem de precos, organizando os dados em forma tabular
 
-#077:
+#077: Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais
 
-#078:
+#078: Faça um programa que leia 5 valores números e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitados e as suas respectivas posições na lista.
 
-#079:
+#079: Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 
-#080:
+#080: Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
 
-#081:
+#081: Crie um programa que vai ler vários números e colocá-los em uma lista Depois disso, mostre:
+a) quantos números foram digitados.
+b) a lista de valores, ordenada de forma decrescente
+c) se o valor 5 foi digitado e está ou não na lista.
 
-#082:
+#082: Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 
-#083:
+#083: Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
-#084:
+#084: Faça um programa que leia nome e peso de várias pessoas guardando tudo em uma lista. No final, mostre:
+a: quantas pessoas foram cadastradas.
+b: uma listagem com as pessoas mais pesadas
+c: uma listagem com as pessoas mais leves
 
-#085:
+#085: Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
 
-#086:
+#086: Crie um programa que crie uma matriz 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela com a formatação correta
 
-#087:
+#087: Aprimore o desafio anterior, mostrando no final:
+a: a soma de todos os valores pares digitados
+b: a soma dos valores da terceira coluna
+c: o maior valor da segunda linha
 
-#088:
+#088: Faça um programa que ajude um jogador da MEGA SENA a criar palpites. O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.
 
-#089:
+#089:Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente
 
-#090:
+#090: Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 
-#091:
+#091: Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado
 
-#092:
+#092: Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário. Se por acaso a CTPS for diferente de zero, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.
+Obs.: aposentadoria em 35 anos de contribuição.
 
-#093:
+#093: Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.
 
-#094:
+#094: Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre:
+a. Quantas pessoas foram cadastradas
+b. A média de idade do grupo
+c. uma lista com todas as mulheres
+d. uma lista com todas as pessoas com idade acima da média.
 
-#095:
+#095: Aprimore o DESAFIO 093 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes de aproveitamento de cada jogador.
 
-#096:
+#096: Faça um programa que tenha uma função chamada area(), que receba dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno
 
-#097:
+#097: Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.
+Ex:
+escreva("Olá, Mundo!")
 
-#098:
+Saída:
+~~~~~~~~~~~
+Olá, Mundo!
+~~~~~~~~~~~
 
-#099:
+#098: Faça um programa que tenha uma função chamada contador(), que recebe três parâmetros: início, fim e passo E realize a contagem. Seu programa tem que realizar três contagens através da função criada
+a) de 1 até 10, de 1 em 1
+b) de 10 até 0, de 2 em 2
+c) Uma contagem personalizada
 
-#100:
+#099: Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 
-#101:
+#100: Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e soma_par(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores pares sorteados pela função anterior.
 
-#102:
+#101: Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimento de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL ou OBRIGATORIO nas eleições.
 
-#103:
+#102: Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
 
-#104:
+#103: Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
 
-#105:
+#104: Crie um programa que tenha a função leia_int(), que vai funcionar de forma semelhante à função input do Python, só que fazendo a validação para aceitar apenas um valor numérico.
+ex.:
+n = leia_int("Digite um n")
 
-#106:
+#105: Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+- quantidade de notas
+- a maior nota
+- a menor nota
+- a média da turma
+- a situação (opcional)
+Adicione também as docstrings da função
 
-#107:
+#106: Faça um minissistema que utilize o interactive help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra "FIM", o programa se encerrará!.
+OBS.: use cores.
 
-#108:
+#107: Crie um módulo chamado moeda.py que tenha as funções incorporadas 'aumentar()', 'diminuir()', 'dobro()' e 'metade()'. Faça também um programa que importe esse módulo e use algumas dessas funções. 
+Obs.: por exemplo, o 'aumentar()' recebe o preço e uma porcentagem, e calcula. O 'diminuir()', mesma coisa.
 
-#109:
+#108: Adapte o código do desafio 107, criando uma função adicional chamada 'moeda()' que consiga mostrar os valores como um valor monetário formatado.
 
-#110:
+#109: Modifique as funções que foram criadas no desafio 107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvido no desafio 108.
 
-#111:
+#110: Adicione ao módulo moeda.py, criado nos exercícios anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
 
-#112:
+#111:Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado. Transfira todas as funções utilizadas nos desafios 107, 108, 109 e 110 para o primeiro pacote e mantenha tudo funcionando.
 
-#113:
+#112: Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
 
-#114:
+#113: Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também a função leiaFloat() com a mesma funcionalidade.
 
-#115:
+#114: Crie um código em Python que testa se o site Pudim está acessível pelo computador usado.
+
+#115: Crie um pequeno sistema modularizado que permita cadastrar pessoas pelo seu nome e idade em um arquivo de texto simples. O sistema só vai ter duas opções: cadastrar uma nova pessoa e listar todas as pessoas cadastradas.
 
 Statements in EN-US:
-#001:
+#001: Create a Python script that reads a person's name and displays a welcome message according to the entered value
 
-#002:
+#002: Create a Python script that reads the day, month, and year of a person's birth and displays a formatted message with the date
 
-#003:
+#003: Create a Python script that reads two numbers and tries to display the sum between them
 
-#004:
+#004: Make a program that reads something from the keyboard and displays its primitive type and all possible information about it
 
-#005:
+#005: Make a program that reads an integer and displays on the screen its successor and predecessor:
 
-#006:
+#006: Create an algorithm that reads a number and shows its double, triple, and square root:
 
-#007:
+#007: Develop a program that reads a student's two grades, calculates and displays their average
 
-#008:
+#008: Write a program that reads a value in meters and displays it converted to centimeters and millimeters
 
-#009:
+#009: Make a program that reads any integer and displays its multiplication table on the screen
 
-#010:
+#010: # Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy. Consider R$ 3.27 = US$ 1
 
-#011:
+#011: Make a program that reads the width and height of a wall in meters, calculates its area, and the amount of paint needed to paint it, knowing that each liter of paint paints an area of 2m²
 
-#012:
+#012: Create an algorithm that reads the price of a product and shows its new price with a 5% discount
 
-#013:
+#013: Create an algorithm that reads an employee's salary and shows their new salary with a 15% increase
 
-#014:
+#014: Temperature converter: write a program that converts a temperature entered in ºC to ºF
 
-#015:
+#015: Car rental:
+Write a program that asks for the number of kilometers traveled by a rented car and the number of days it was rented
+Calculate the price to pay, knowing that the car costs R$ 60 per day and R$ 0.15 per kilometer traveled
 
-#016:
+#016: Create a program that reads any real number from the keyboard and displays its integer portion on the screen.
 
-#017:
+#017: Make a program that reads the length of the opposite leg (co) and the adjacent leg (ca) of a right-angled triangle, calculates and displays the length of the hypotenuse.
 
-#018:
+#018: Make a program that reads any angle and displays on the screen the value of the sine, cosine, and tangent of that angle.
 
-#019:
+#019: A teacher wants to draw one of his four students to erase the board. Make a program that helps him, reading their names and writing the chosen one.
 
-#020:
+#020: The same teacher from the previous challenge wants to draw the order of presentation of the students' assignments. Make a program that reads the names of the four students and shows the randomly selected order.
 
-#021:
+#021: Create a Python program that opens and plays an mp3 file.
 
-#022:
+#022: Create a program that reads a person's full name:
 
-#023:
+#023: Create a program that reads a number from 0 to 9999 and shows on the screen each of the separated digits.
+Example: Enter a number: 1834
+Units: 4
+Tens: 3
+Hundreds: 8
+Thousands: 1
 
-#024:
+#024: Create a program that reads the name of a city and tells whether it starts with the word "Santo" or not.
 
-#025:
+#025: Create a program that reads a person's name and tells if it contains "Silva."
 
-#026:
+#026: Make a program that reads any phrase and shows:
+- How many times the letter "a" appears
+- In which position it first appears
+- In which position it appears last
 
-#027:
+#027: Create a program that reads a person's full name, then shows the first and last name separately.
 
-#028:
+#028: Write a program that makes the computer "think" of an integer between 0 and 5 and asks the user to try to guess which number the computer chose.
+The program should then write on the screen whether the user won or lost.
 
-#029:
+#029: Write a program that reads the speed of a car. If it exceeds 80 km/h, display a message saying it was fined. The fine will cost $7.00 for each km above the limit.
 
-#030:
+#030: Create a program that reads an integer and displays on the screen whether it is EVEN or ODD.
 
-#031:
+#030: Create a program that reads an integer and displays on the screen whether it is EVEN or ODD.
 
-#032:
+#031: Develop a program that asks for the distance of a trip in km. Calculate the ticket price, charging $0.50 per km for trips up to 200km and $0.45 for longer trips.
 
-#033:
+#032: Make a program that reads any year and shows if it is LEAP or not.
 
-#034:
+#033: Make a program that reads three numbers and shows which is the largest and which is the smallest.
 
-#035:
+#034: Write a program that asks for an employee's salary and calculates the value of their increase. For salaries above $1,250.00, calculate an increase of 10%. For lower or equal salaries, the increase is $15%.
 
-#036:
+#035: Develop a program that reads the length of three lines and tells the user whether they can form a triangle or not.
 
-#037:
+#036: Write a program to approve a bank loan for the purchase of a house. The program will ask for the value of the house, the buyer's salary, and how many years they will pay. Calculate the monthly installment amount, knowing that it cannot exceed 30% of the salary, or the loan will be denied.
 
-#038:
+#037: Write a program that reads any integer and asks the user to choose the conversion base:
+- 1 for binary
+- 2 for octal
+- 3 for hexadecimal
 
-#039:
+#038: Write a program that reads two integers and compares them, displaying a message on the screen:
+- the first value is greater
+- the second value is greater
+- there is no greater value; they are equal
 
-#040:
+#039: Make a program that reads a young person's year of birth and informs according to their age:
+- If they still need to enlist in military service
+- If it is time to enlist
+- If they have already passed the enlistment deadline
+Your program should also show the time remaining or elapsed.
 
-#041:
+#040: Create a program that reads two grades of a student and calculates their average, showing a message at the end according to the achieved average:
+- average below 5.0: failed
+- average between 5.0 and 6.9: recovery
+- average 7.0 or higher: approved
 
-#042:
+#041: The National Swimming Confederation needs a program that reads
+an athlete's year of birth and shows their category according to their age:
+- up to 9 years: child
+- up to 14 years: juvenile
+- up to 19 years: junior
+- up to 20 years: senior
+over 20: master
 
-#043:
+#042: Redo CHALLENGE 35, the triangles, adding the feature of showing
+what type of triangle will be formed:
 
-#044:
+- equilateral: all sides equal
+- isosceles: two sides equal
+- scalene: all sides different
 
-#045:
+#043: Develop logic that reads a person's weight and height, calculates their BMI
+and shows their status, according to the table below:
+- below 18.5: underweight
+- between 18.5 and 25: ideal weight
+- 25 to 30: overweight
+- 30 to 40: obesity
+- over 40: morbid obesity
 
-#046:
+#044: Develop a program that calculates the amount to be paid for a product,
+considering its normal price, and payment conditions:
+- in cash: 10% discount
+- in cash on the card: 5% discount
+- in up to 2x on the card: normal price
+- in 3x or more on the card: 20% interest
 
-#047:
+#045: Create a program that makes the computer play Rock, Paper, Scissors with you.
 
-#048:
+#046: Make a program that shows a countdown to the burst and fireworks, going from 10 to 0, with a pause of 1 second between them. USING A LOOP NOW.
 
-#049:
+#047: Create a program that shows on the screen all the even numbers in the range between 1 and 50.
 
-#050:
+#048: Make a program that calculates the sum of all odd numbers that are multiples of three (3) and that are in the range from 1 to 500.
 
-#051:
+#049: Redo challenge 009, showing the multiplication table of a number that the user chooses, but now using a for loop.
 
-#052:
+#050: Develop a program that reads six integers and shows the sum only of those that are even. Disregard it if the entered value is odd.
 
-#053:
+#051: Develop a program that reads the first term and the ratio of an AP (Arithmetic Progression). In the end, show the first 10 terms of this progression.
 
-#054:
+#052: Make a program that reads an integer and tells whether or not it is a prime number.
 
-#055:
+#053: Create a program that reads any phrase and tells if it is a palindrome, disregarding spaces.
 
-#056:
+#054: Create a program that reads the year of birth of seven people. In the end, show how many people have not yet reached the age of majority and how many are already of legal age.
 
-#057:
+#055: Make a program that reads the weight of five people at the end, show which was the highest and lowest weight read.
 
-#058:
+#056: Develop a program that reads the name, age, and gender of 4 people. At the end of the program, show:
+ - The average age of the group
+ - What is the name of the oldest man
+ - How many women are under 20 years old
 
-#059:
+#057: Make a program that reads a person's gender but only accepts the values "M" or "F". If it is wrong, ask for input again until you have a correct value.
 
-#060:
+#058: Improve the game from CHALLENGE 028 where the computer will "think"
+of an integer between 0 and 10. But now the player will try to guess until they get it right,
+showing in the end how many guesses were needed to win.
 
-#061:
+#059: Create a program that reads two values and shows a menu on the screen:
+1: add
+2: multiply
+3: greater
+4: new numbers
+5: exit the program
+Your program should perform the requested operation in each case.
 
-#062:
+#060: Make a program that reads any number and shows its factorial.
+Example: 5! = 5 * 4 * 3 * 2 * 1 = 120
 
-#063:
+#061: Redo CHALLENGE 51, reading the first term and the ratio of an AP, showing the first 10 terms of the progression using the while structure.
 
-#064:
+#062: Improve exercise 61, asking the user if they want to show more terms. The program ends when they say they want to show "0 terms."
 
-#065:
+#063: Write a program that reads any integer n and shows on the screen the first n elements of a Fibonacci sequence.
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584 (...)
 
-#066:
+#064: Create a program that reads several integers from the keyboard. The program will only stop when the user types the value 999, which is the stop condition. In the end, show how many numbers were entered and what was their sum.
 
-#067:
+#065: Create a program that reads several integers from the keyboard. At the end of execution, show the average between all values and what was the largest and smallest values read. The program should ask the user if they want to continue entering values.
 
-#068:
+#066: Create a program that reads several integers from the keyboard. The program will only stop when the user types 999, which is the stop condition (flag). In the end, show how many numbers were entered and what was their sum (disregarding the flag).
 
-#069:
+#067: Make a program that shows the multiplication table of various numbers, one at a time, for each value entered by the user. The program will be interrupted when the requested number is negative.
 
-#070:
+#068: Make a program that plays even or odd with the computer. The game will only stop when the player loses, showing the total consecutive victories they achieved at the end of the game.
 
-#071:
+#069: Create a program that reads the age and gender of several people. For each registered person, the program should ask whether the user wants to continue or not. In the end, show:
+a) how many people are over 18 years old
+b) how many men were registered
+c) how many women are under 20 years old
 
-#072:
+#070: Create a program that reads the name and price of various products. The program should ask whether the user will continue or not. In the end, show:
+a) what is the total spent on the purchase
+b) how many products cost more than $1000
+c) what is the name of the cheapest product
 
-#073:
+#071: Create a program that simulates the operation of an ATM. At the beginning, ask the user what amount will be withdrawn (integer), and the program will inform how many bills of each value will be delivered.
+Note: Consider that the ATM has bills of $50, $20, $10, and $1.
 
-#074:
+#072: Create a program that has a tuple fully filled with a spelled-out count from zero to twenty. Your program should read a number from the keyboard (between 0 and 20) and display it in full.
 
-#075:
+#073: Create a tuple filled with the top 20 positions of the Brazilian Championship Table, in placement order. Then show:
+a) only the top 5
+b) the last 4 in the table
+c) a list with the teams in alphabetical order
+d) in which position Chapecoense is on the table
 
-#076:
+#074: Create a program that will generate five random numbers and put them in a tuple. After that, show the list of generated numbers and also indicate the index of the smallest and largest values in the tuple.
 
-#077:
+#075: Develop a program that reads four values from the keyboard and stores them in a tuple. In the end, show:
+a) how many times the value 9 appeared
+b) in which position the first value 3 was entered
+c) what were the even numbers
 
-#078:
+#076: Create a program that has a unique tuple with product names and their respective prices, in sequence. In the end, show a price list, organizing the data in tabular form.
 
-#079:
+#077: Create a program that has a tuple with several words (do not use accents). After that, you should show, for each word, what its vowels are.
 
-#080:
+#078: Make a program that reads 5 number values and stores them in a list. In the end, show what the highest and lowest values entered were and their respective positions in the list.
 
-#081:
+#079: Create a program where the user can enter various numerical values and register them in a list. If the number already exists there, it will not be added. In the end, all unique values entered will be displayed, in ascending order.
 
-#082:
+#080: Create a program where the user can enter five numerical values and register them in a list, already in the correct insertion position (without using sort()). In the end, show the ordered list on the screen.
 
-#083:
+#081: Create a program that will read several numbers and place them in a list. After that, show:
+a) how many numbers were entered.
+b) the list of values, sorted in descending order
+c) whether the value 5 was entered and is in the list or not.
 
-#084:
+#082: Create a program that will read several numbers and place them in a list. After that, create two extra lists that will contain only the even and odd values entered, respectively. In the end, show the content of the three generated lists.
 
-#085:
+#083: Create a program where the user enters any expression that uses parentheses. Your application should analyze whether the passed expression has the parentheses open and closed in the correct order.
 
-#086:
+#084: Make a program that reads name and weight of several people, keeping everything in a list. In the end, show:
+a) how many people were registered.
+b) a list with the heaviest people
+c) a list with the lightest people
 
-#087:
+#085: Create a program where the user can enter seven numerical values and register them in a single list that keeps the even and odd values separated. In the end, show the even and odd values in ascending order.
 
-#088:
+#086: Create a program that creates a 3x3 matrix and fills it with values read from the keyboard. In the end, show the matrix on the screen with the correct formatting.
 
-#089:
+#087: Enhance the previous challenge, showing in the end:
+a) the sum of all even values entered
+b) the sum of the values in the third column
+c) the highest value in the second row
 
-#090:
+#088: Make a program that helps a MEGA SENA player create guesses. The program will ask how many games will be generated and will draw 6 numbers between 1 and 60 for each game, registering everything in a composite list.
 
-#091:
+#089: Create a program that reads the name and two grades of several students and saves everything in a composite list. In the end, show a report containing the average of each one and allow the user to show the grades of each student individually.
 
-#092:
+#090: Make a program that reads the name and average of a student, also storing the situation in a dictionary. In the end, show the content of the structure on the screen.
 
-#093:
+#091: Create a program where 4 players roll a die and have random results. Save these results in a dictionary. In the end, put this dictionary in order, knowing that the winner rolled the highest number on the die.
 
-#094:
+#092: Create a program that reads the name, year of birth, and work permit of a person and registers them (with age) in a dictionary. If by any chance the work permit is different from zero, the dictionary will also receive the hiring year and salary. Calculate and add, in addition to the age, how many years the person will retire.
+Note: retirement in 35 years of contribution.
 
-#095:
+#093: Create a program that manages the performance of a soccer player. The program will read the player's name and how many matches he played. Then it will read the number of goals scored in each match. In the end, all of this will be stored in a dictionary, including the total number of goals scored during the championship.
 
-#096:
+#094: Create a program that reads the name, gender, and age of several people, storing the data of each person in a dictionary and all the dictionaries in a list. In the end, show:
+a. How many people were registered
+b. The average age of the group
+c. A list with all the women
+d. A list with all people above the average age.
 
-#097:
+#095: Enhance CHALLENGE 093 so that it works with multiple players, including a system to view the performance details of each player.
 
-#098:
+#096: Make a program that has a function called area(), which receives dimensions of a rectangular terrain (width and length) and shows the area of the terrain.
 
-#099:
+#097: Make a program that has a function called write(), which receives any text as a parameter and shows a message with adaptable size.
+Example:
+write("Hello, World!")
 
-#100:
+Output:
+~~~~~~~~~~~
+Hello, World!
+~~~~~~~~~~~
 
-#101:
+#098: Make a program that has a function called counter(), which receives three parameters: start, end, and step, and performs the counting. Your program has to perform three counts through the created function
+a) from 1 to 10, 1 by 1
+b) from 10 to 0, 2 by 2
+c) A custom count
 
-#102:
+#099: Make a program that has a function called greater(), which receives several parameters with integer values. Your program has to analyze all values and say which one is the greatest.
 
-#103:
+#100: Make a program that has a list called numbers and two functions called draw() and sum_even(). The first function will draw 5 numbers and put them in the list, and the second function will show the sum of all the even values drawn by the previous function.
 
-#104:
+#101: Create a program that has a function called vote() that will receive a person's year of birth as a parameter, returning a literal value indicating whether a person has a DENIED, OPTIONAL, or MANDATORY vote in elections.
 
-#105:
+#102: Create a program that has a function factorial() that receives two parameters: the first indicating the number to calculate, and the other called show, which will be a logical value (optional) indicating whether the factorial calculation process will be shown on the screen.
 
-#106:
+#103: Make a program that has a function called record(), which receives two parameters: the name of a player and how many goals he scored. The program should be able to show the player's record, even if some data has not been correctly entered.
 
-#107:
+#104: Create a program that has the function read_int(), which will work similarly to Python's input function, but validating to accept only a numerical value.
+Example:
+n = read_int("Enter an n")
 
-#108:
+#105: Make a program that has a function grades() that can receive several student grades and will return a dictionary with the following information:
+- number of grades
+- the highest grade
+- the lowest grade
+- the class average
+- the situation (optional)
+Also, add the docstrings of the function
 
-#109:
+#106: Create a minisystem that uses Python's interactive help. The user will type the command and the manual will appear. When the user types the word "END", the program will end!.
+Note: use colors.
 
-#110:
+#107: Create a module called moeda.py that has the built-in functions 'increase()', 'decrease()', 'double()', and 'half()'. Also, make a program that imports this module and uses some of these functions.
+Note: For example, 'increase()' receives the price and a percentage and calculates it. 'decrease()', the same.
 
-#111:
+#108: Adapt the code from CHALLENGE 107, creating an additional function called 'coin()' that can show the values as a formatted monetary value.
 
-#112:
+#109: Modify the functions created in CHALLENGE 107 so that they accept one more parameter, informing whether the value returned by them will be or will not be formatted by the coin() function, developed in CHALLENGE 108.
 
-#113:
+#110: Add to the moeda.py module, created in previous exercises, a function called summary(), which will show on the screen some information generated by the functions we already have in the module created so far.
 
-#114:
+#111: Create a package called utilidadesCeV that has two internal modules called moeda and dado. Transfer all functions used in challenges 107, 108, 109, and 110 to the first package and keep everything working.
 
-#115:
+#112: Within the utilidadesCeV package we created in challenge 111, there is a module called dado. Create a function called readMoney() that can work like the input() function, but with data validation to accept only monetary values.
 
+#113: Rewrite the leiaInt() function we did in CHALLENGE 104, now including the possibility of typing an invalid number type. Take advantage and also create the leiaFloat() function with the same functionality.
+
+#114: Create a Python code that tests whether the Pudim site is accessible by the used computer.
+
+#115: Create a small modularized system that allows registering people by their name and age in a simple text file. The system will only have two options: register a new person and list all registered people.
