@@ -7,7 +7,7 @@ Playlist apenas com Exercícios: [Exercícios Pyhton3](https://www.youtube.com/p
 
 <hr/>
 
-Videos taught by Prof. Gustavo Guanabara on the Curso em Vídeo channel
+Videos taught by Prof. Gustavo Guanabara on the Curso em Vídeo youtube channel
 
 World 1: [Fundamentals](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) | World 2: [Control Structures](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) | World 3: [Composed Structures](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 
